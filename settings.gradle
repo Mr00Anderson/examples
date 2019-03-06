@@ -1,0 +1,3 @@
+rootProject.name = 'com.virtual_hex.examples'
+include 'general'
+
